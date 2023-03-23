@@ -1,4 +1,4 @@
-people.tchelinux.org
+people.tchelinux.org.br
 ====================
 
 Este repositório contém páginas com informações para contato dos membros do Tchelinux, similares a pagina https://people.tchelinux.org/tchelinux/.
